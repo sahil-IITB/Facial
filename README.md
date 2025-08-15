@@ -88,10 +88,10 @@ The model consists of **4 convolutional blocks** followed by **2 fully connected
 
 ## 📊 Results
 ### **Accuracy & Loss Curves**
-![Training Metrics](plots/train_metrics_lr0.001_ep50.png)
+![Training Metrics](train_metrics_lr0.001_ep50.png)
 
 ### **Confusion Matrix**
-![Confusion Matrix](plots/conf_matrix_lr0_001_ep50.png)
+![Confusion Matrix](conf_matrix_lr0_001_ep50.png)
 
 ### **Test Set Performance**
 - **Accuracy:** `63.33%`
